@@ -265,7 +265,7 @@ const vdom = (function(){
   }
   
   return {
-  	VNode,
+    VNode,
     VText,
     createElement,
     isArray, 
