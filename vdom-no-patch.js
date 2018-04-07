@@ -1,5 +1,7 @@
 const vdom = (function(){
   const isArray = (arr) => (toString.call(arr) === "[object Array]");
+  const nativeIsArray = Array.isArray;
+  const toString = Object.prototype.toString;
   const realObject = { 1:1, 2:2, 3:3};
   const isObject = (obj) => (typeof obj === 'object' && obj !== null);
   const isVHook = (hook) => (hook &&
@@ -265,6 +267,11 @@ const vdom = (function(){
   return {
   	VNode,
     VText,
-    createElement
+    createElement,
+    isArray, 
+    nativeIsArray, 
+    toString,
+    realObject, 
+    isObject
   }
 }());
