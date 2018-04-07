@@ -272,6 +272,10 @@ const vdom = (function(){
     nativeIsArray, 
     toString,
     realObject, 
-    isObject
+    isObject,
+    isVNode, 
+    isVText, 
+    isWidget, 
+    isVThunk 
   }
 }());
