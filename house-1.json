@@ -1,0 +1,79 @@
+{
+	"updatedPropertyDetails": {
+		"request": {
+			"zpid": "46947071"
+		},
+		"message": {
+			"text": "Request successfully processed",
+			"code": "0"
+		},
+		"response": {
+			"zpid": "46947071",
+			"pageViewCount": {
+				"currentMonth": "1",
+				"total": "1"
+			},
+			"address": {
+				"street": "2702 Beach Trl APT C",
+				"zipcode": "33785",
+				"city": "INDIAN ROCKS BEACH",
+				"state": "FL",
+				"latitude": "27.909012",
+				"longitude": "-82.847256"
+			},
+			"posting": {
+				"status": "Active",
+				"type": "For sale by owner",
+				"lastUpdatedDate": "2018-11-18 10:34:00.0"
+			},
+			"price": {
+				"_currency": "USD",
+				"__text": "699000"
+			},
+			"links": {
+				"homeDetails": "https://www.zillow.com/homedetails/2702-Beach-Trl-APT-C-Indian-Rocks-Beach-FL-33785/46947071_zpid/",
+				"photoGallery": "https://www.zillow.com/homedetails/2702-Beach-Trl-APT-C-Indian-Rocks-Beach-FL-33785/46947071_zpid/#image=lightbox%3Dtrue",
+				"homeInfo": "https://www.zillow.com/homedetails/2702-Beach-Trl-APT-C-Indian-Rocks-Beach-FL-33785/46947071_zpid/"
+			},
+			"images": {
+				"count": "57",
+				"image": {
+					"url": [
+						"https://photos.zillowstatic.com/p_d/ISynctow8en8yp1000000000.jpg",
+						"https://photos.zillowstatic.com/p_d/IS6ue573dmv5yp1000000000.jpg",
+						"https://photos.zillowstatic.com/p_d/ISmiswp7v8outp1000000000.jpg",
+						"https://photos.zillowstatic.com/p_d/ISibwrpaw2akvn1000000000.jpg",
+						"https://photos.zillowstatic.com/p_d/ISi7l02cmj6hkn1000000000.jpg"
+					]
+				}
+			},
+			"editedFacts": {
+				"useCode": "Condominium",
+				"bedrooms": "3",
+				"bathrooms": "3.0",
+				"finishedSqFt": "1470",
+				"yearBuilt": "1980",
+				"yearUpdated": "2018",
+				"numFloors": "2",
+				"numRooms": "6",
+				"roof": "Shake / Shingle",
+				"exteriorMaterial": "Wood",
+				"view": "Water",
+				"parkingType": "Carport, Off-street, On-street",
+				"coveredParkingSpaces": "2",
+				"heatingSources": "Electric",
+				"heatingSystem": "Heat pump",
+				"coolingSystem": "Central",
+				"appliances": "Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Refrigerator, Washer",
+				"floorCovering": "Hardwood, Tile",
+				"rooms": "Dining room, Family room, Laundry room, Master bath, Pantry, Walk-in closet",
+				"numUnits": "4"
+			},
+			"homeDescription": "Unique 2 story condo in a building with only 3 other unit (left in photo). 3 bedroom/2.5 bath. Exterior of the building recently repainted along with a new roof. Turnkey, furnished, income generating property. 2018, over $44,000 in income and $10,000 committed for 2019. Covered parking, Hunter Douglas motorized blinds, plenty of room to store beach gear and toys. HOA monthly fee $500. Please email for showing. No Realtors or Solicitors. Asking $699,999.  Call or text 727-902-5846\nAIrbnb listing for more information: https://www.airbnb.com/rooms/18930132"
+		},
+		"_xmlns:UpdatedPropertyDetails": "http://www.zillow.com/static/xsd/UpdatedPropertyDetails.xsd",
+		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"_xsi:schemaLocation": "http://www.zillow.com/static/xsd/UpdatedPropertyDetails.xsd https://www.zillowstatic.com/vstatic/18f7df5/static/xsd/UpdatedPropertyDetails.xsd",
+		"__prefix": "UpdatedPropertyDetails"
+	}
+}
