@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UpdatedPropertyDetails:updatedPropertyDetails
+	xmlns:UpdatedPropertyDetails="http://www.zillow.com/static/xsd/UpdatedPropertyDetails.xsd" xsi:schemaLocation="http://www.zillow.com/static/xsd/UpdatedPropertyDetails.xsd https://www.zillowstatic.com/vstatic/18f7df5/static/xsd/UpdatedPropertyDetails.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<request>
+		<zpid>2087021020</zpid>
+	</request>
+	<message>
+		<text>Request successfully processed</text>
+		<code>0</code>
+	</message>
+	<response>
+		<zpid>2087021020</zpid>
+		<pageViewCount>
+			<currentMonth>2</currentMonth>
+			<total>2</total>
+		</pageViewCount>
+		<address>
+			<street>9176 98th Ave</street>
+			<zipcode>33777</zipcode>
+			<city>Largo</city>
+			<state>FL</state>
+			<latitude>27.861387</latitude>
+			<longitude>-82.765601</longitude>
+		</address>
+		<posting>
+			<status>Active</status>
+			<type>For sale by owner</type>
+			<lastUpdatedDate>2018-11-25 06:42:00.0</lastUpdatedDate>
+		</posting>
+		<price currency="USD">1250000</price>
+		<links>
+			<homeDetails>https://www.zillow.com/homedetails/9176-98th-Ave-Largo-FL-33777/2087021020_zpid/</homeDetails>
+			<photoGallery>https://www.zillow.com/homedetails/9176-98th-Ave-Largo-FL-33777/2087021020_zpid/#image=lightbox%3Dtrue</photoGallery>
+			<homeInfo>https://www.zillow.com/homedetails/9176-98th-Ave-Largo-FL-33777/2087021020_zpid/</homeInfo>
+		</links>
+		<images>
+			<count>37</count>
+			<image>
+				<url>https://photos.zillowstatic.com/p_d/ISiz2pets2czj60000000000.jpg</url>
+				<url>https://photos.zillowstatic.com/p_d/ISmykd24k3k90j1000000000.jpg</url>
+				<url>https://photos.zillowstatic.com/p_d/ISyb7df61jstj60000000000.jpg</url>
+				<url>https://photos.zillowstatic.com/p_d/ISat0dwmou32k60000000000.jpg</url>
+				<url>https://photos.zillowstatic.com/p_d/ISin532rrouqs30000000000.jpg</url>
+			</image>
+		</images>
+		<editedFacts>
+			<useCode>SingleFamily</useCode>
+			<bedrooms>5</bedrooms>
+			<bathrooms>3.0</bathrooms>
+			<finishedSqFt>3525</finishedSqFt>
+			<lotSizeSqFt>130680</lotSizeSqFt>
+			<yearBuilt>1974</yearBuilt>
+			<yearUpdated>2017</yearUpdated>
+			<numFloors>2</numFloors>
+			<basement>None</basement>
+			<roof>Shake / Shingle</roof>
+			<exteriorMaterial>Brick, Cement / Concrete, Stone, Stucco</exteriorMaterial>
+			<view>Territorial</view>
+			<parkingType>Garage - Attached</parkingType>
+			<coveredParkingSpaces>2</coveredParkingSpaces>
+			<heatingSources>Electric, Gas</heatingSources>
+			<heatingSystem>Heat pump</heatingSystem>
+			<coolingSystem>Central, Other</coolingSystem>
+			<appliances>Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Trash compactor, Washer</appliances>
+			<floorCovering>Concrete, Tile, Other</floorCovering>
+			<rooms>Breakfast nook, Dining room, Family room, Laundry room, Master bath, Mud room, Office, Pantry, Walk-in closet</rooms>
+			<architecture>Contemporary</architecture>
+		</editedFacts>
+		<homeDescription>Video: https://vimeo.com/300073802
+3.79 ACRES OF LAND 
+Pinellas County is. CLOSE TO THE BEACHES, SHOPPING, RESTAURANTS, AIRPORTS AND MORE. ZONED FOR Horses Plenty of room to build an Olympic sized pool, boat pad, RV pad, barn, gazebo, playground, or mother in law apartment. You get the picture. Choose what suites you. You can have it all and be close to everything.. House is in mint shape inside and out!!!</homeDescription>
+		<whatOwnerLoves> I love the complete detail from the ceilings down to the floor and everywhere in between. From a generator that will run the home for up to 14 days on a natural gas tank within the yard in case of a hurricane and losing power. Also love all the brand new kitchen aid appliances that have never been used. all Kohler products in bathrooms and showers, LaView 8 Camera monitoring system and digital video recorder (new) Kitchen Aid 1.4 cu ft Conventional over (new) Kitchen Aid Wall Over 30 in Convention oven (new) Durovent Roof insulation though out attic (new) Kohler 75" X 41" drop in Effervescence over flow tub Mod K-1188-RE-0 (new) Kucht KRG3618U 36" Gas stove w porcelain Interior (new) Sylvane -Williams air sponge attic dehumidifier (DH130A) (new) Kohler Toilet K-3901-NPR-0 with Wi-Fi radio (new) 2 (5) Ton Goodman 16 seer air conditioners GPC1460H41 (2) with new air handlers and duck work year old Performance Plus 9.5 GPM Natural Gas Mid Efficiency Outdoor Smart Tank less Water Heater New quartz in Kitchen, pantry, wine room, master bath, room and all bathrooms New porcelain tile throughout home Out door trim on ALL windows made out of lifetime fiberglass all windows, culvert ceilings, doors and Indoor trim, shelving and T.V. enclose are made from Birch on!!!</whatOwnerLoves>
+	</response>
+</UpdatedPropertyDetails:updatedPropertyDetails>
+<!-- H:048  T:88ms  S:1242  R:Wed Nov 28 11:09:19 PST 2018  B:5.0.57511-master.c10bab9~delivery_ready.7062798 -->
