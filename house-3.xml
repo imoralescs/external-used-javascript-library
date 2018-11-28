@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UpdatedPropertyDetails:updatedPropertyDetails
+	xmlns:UpdatedPropertyDetails="http://www.zillow.com/static/xsd/UpdatedPropertyDetails.xsd" xsi:schemaLocation="http://www.zillow.com/static/xsd/UpdatedPropertyDetails.xsd https://www.zillowstatic.com/vstatic/18f7df5/static/xsd/UpdatedPropertyDetails.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<request>
+		<zpid>47104039</zpid>
+	</request>
+	<message>
+		<text>Request successfully processed</text>
+		<code>0</code>
+	</message>
+	<response>
+		<zpid>47104039</zpid>
+		<pageViewCount>
+			<currentMonth>2</currentMonth>
+			<total>2</total>
+		</pageViewCount>
+		<address>
+			<street>1149 3rd Ave S</street>
+			<zipcode>33715</zipcode>
+			<city>Tierra Verde</city>
+			<state>FL</state>
+			<latitude>27.674512</latitude>
+			<longitude>-82.722819</longitude>
+		</address>
+		<posting>
+			<status>Active</status>
+			<type>For sale by owner</type>
+			<lastUpdatedDate>2018-10-16 07:56:00.0</lastUpdatedDate>
+		</posting>
+		<price currency="USD">716900</price>
+		<links>
+			<homeDetails>https://www.zillow.com/homedetails/1149-3rd-Ave-S-Tierra-Verde-FL-33715/47104039_zpid/</homeDetails>
+			<photoGallery>https://www.zillow.com/homedetails/1149-3rd-Ave-S-Tierra-Verde-FL-33715/47104039_zpid/#image=lightbox%3Dtrue</photoGallery>
+			<homeInfo>https://www.zillow.com/homedetails/1149-3rd-Ave-S-Tierra-Verde-FL-33715/47104039_zpid/</homeInfo>
+		</links>
+		<images>
+			<count>43</count>
+			<image>
+				<url>https://photos.zillowstatic.com/p_d/ISecyirdjsz7tm0000000000.jpg</url>
+				<url>https://photos.zillowstatic.com/p_d/ISmexlthwljneo0000000000.jpg</url>
+				<url>https://photos.zillowstatic.com/p_d/ISalit65w4lhsv0000000000.jpg</url>
+				<url>https://photos.zillowstatic.com/p_d/ISukvilmsmb75z0000000000.jpg</url>
+				<url>https://photos.zillowstatic.com/p_d/ISads3fzr7itc41000000000.jpg</url>
+			</image>
+		</images>
+		<editedFacts>
+			<useCode>SingleFamily</useCode>
+			<bedrooms>4</bedrooms>
+			<bathrooms>3.0</bathrooms>
+			<finishedSqFt>2381</finishedSqFt>
+			<lotSizeSqFt>11378</lotSizeSqFt>
+			<yearBuilt>2002</yearBuilt>
+			<yearUpdated>2002</yearUpdated>
+			<numFloors>1</numFloors>
+			<numRooms>8</numRooms>
+			<basement>None</basement>
+			<roof>Tile</roof>
+			<exteriorMaterial>Cement / Concrete, Stucco</exteriorMaterial>
+			<parkingType>Garage - Attached</parkingType>
+			<coveredParkingSpaces>2</coveredParkingSpaces>
+			<heatingSources>Electric</heatingSources>
+			<heatingSystem>Other</heatingSystem>
+			<coolingSystem>Central</coolingSystem>
+			<appliances>Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Trash compactor, Washer</appliances>
+			<floorCovering>Hardwood, Tile</floorCovering>
+			<rooms>Dining room, Family room, Laundry room, Master bath, Office, Pantry, Recreation room, Walk-in closet</rooms>
+			<architecture>Spanish</architecture>
+		</editedFacts>
+		<homeDescription>This is a FSBO (For Sale By Owner) listing...
+ 
+For more information please contact the owner DIRECTLY at 727.204.1184 or email jb247@hotmail.com...
+ 
+Built in 2002, and completely remodeled and renovated in 2010, with over $80k in additional custom upgrades...
+ 
+Spanish Stucco design with clay barrel roof...
+ 
+Split design floor plan with dual-unit central heat &amp; air (each are less than 2 years old)...
+ 
+Centrally located Gourmet kitchen with granite countertops &amp; stainless appliances...
+ 
+Full size Laundry Room w/ Washer &amp; Driver located right off the Kitchen &amp; Garage...
+ 
+Large pantry with endless storage throughout -- you will run out of "stuff" before you run out of places to put it...
+ 
+Custom designer paint with hand faux finish (by local renowned artist Deb Holliday), designer-grade fixtures &amp; outlets, and Bali custom designer blinds...
+ 
+Large Master Suite with his &amp; hers walk-in closets, and reading nook w/ dual French Doors that open onto the Lanai...
+ 
+Luxurious Master Bath with Whirlpool Tub &amp; Custom Shower...
+ 
+Home Office with custom built-in desk and shelving...
+ 
+Entire house is pre-wired for Home Theater, 15 powered speakers and 6 TVs...
+ 
+Multi-zone Alarm System w/ 8 Camera Surveillance System...
+ 
+Over-sized 2 Car Garage (can accommodate 2 vehicles and a full-size Harley)...
+ 
+GE 60-gallon heat pump hot water tank...
+ 
+Circular Paver Driveway...
+ 
+Located on a large (.26 acre) corner lot...
+ 
+Large Guest (Mother-in-law) Suite / Gym with Wet Bar &amp; built-in wine fridge...
+ 
+12' Vaulted ceilings w/ 7 designer Ceiling Fans throughout...
+ 
+Large 16" Ceramic &amp; Limestone Tile, and Hardwood Floors...
+ 
+Large wrap around Lanai...
+ 
+Custom designed heated (Heat Pump) Pool w/ Travertine Stone Decking...
+
+Tropical Lush Xeriscape Landscaping &amp; Accent Lighting, Dual 65 Gallon Rain Barrels, and a walking path encircling the home...
+ 
+Large cabana-style 3rd bath with giant walk-in shower located right off the pool...
+ 
+Home Owner Association (HOA) Dues are LESS THAN $30 PER MONTH!
+ 
+Walking distance to numerous restaurants in downtown Tierra Verde...
+ 
+Numerous Marinas / Boat Slips available in the immediate area...
+ 
+Just minutes from historic Fort DeSoto Beach, Easy highway access to St Petersburg, Tampa, Airports and surrounding areas....
+ 
+Again, this is a FSBO (For Sale By Owner) listing...
+ 
+For more information please contact the owner DIRECTLY at 727.204.1184 or email jb247@hotmail.com...</homeDescription>
+		<whatOwnerLoves>Location... Location... Location... Island Living at its Best!</whatOwnerLoves>
+	</response>
+</UpdatedPropertyDetails:updatedPropertyDetails>
+<!-- H:048  T:119ms  S:1250  R:Wed Nov 28 11:11:53 PST 2018  B:5.0.57511-master.c10bab9~delivery_ready.7062798 -->
