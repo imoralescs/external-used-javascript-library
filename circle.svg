@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114px" height="114px" viewBox="0 0 114 114" version="1.1">
+  <defs>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+      <stop stop-color="#000000" offset="0%"/>
+      <stop stop-color="#860003" offset="100%"/>
+    </linearGradient>
+    <circle id="path-2" cx="50" cy="50" r="50"/>
+    <filter x="-9.0%" y="-8.0%" width="120.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-3">
+      <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"/>
+      <feOffset dx="1" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feMorphology radius="3" operator="erode" in="SourceAlpha" result="shadowInner"/>
+      <feOffset dx="1" dy="2" in="shadowInner" result="shadowInner"/>
+      <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+      <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+      <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.8 0" type="matrix" in="shadowBlurOuter1"/>
+    </filter>
+  </defs>
+  <g id="Buttons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Group-2" transform="translate(4.000000, 5.000000)">
+      <g id="Group-4" transform="translate(2.000000, 0.000000)">
+        <g id="Oval">
+          <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"/>
+          <use stroke="url(#linearGradient-1)" stroke-width="6" xlink:href="#path-2"/>
+        </g>
+        <ellipse id="Oval" stroke="#000000" stroke-width="6" cx="50" cy="49" rx="50" ry="49"/>
+      </g>
+    </g>
+  </g>
+</svg>
