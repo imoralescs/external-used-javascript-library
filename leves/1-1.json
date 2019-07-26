@@ -2,7 +2,7 @@
   "backgrounds": [
     {
       "type": "paint",
-      "color" "#85C1E9",
+      "color": "#85C1E9",
       "tile": "sky",
       "ranges": [
         [
